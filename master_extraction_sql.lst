@@ -1,0 +1,3 @@
+/home/dstdw/bi_reports/customer_statement/sql/customer_statement_main_query_unload.sql
+/home/dstdw/bi_reports/customer_statement/sql/customer_statement_past_due_unload.sql
+/home/dstdw/bi_reports/customer_statement/sql/customer_statement_with_cr_unload.sql
